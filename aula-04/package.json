@@ -1,0 +1,16 @@
+{
+  "name": "aula-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lodash.js",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "lodash": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

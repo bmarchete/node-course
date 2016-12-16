@@ -1,0 +1,4 @@
+criação de um servidor simples com arquivo de rotas
+a biblioteca http implementa um servidor http
+
+para executar, npm run dev

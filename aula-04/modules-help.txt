@@ -1,0 +1,14 @@
+fs
+  reads/write some file
+
+npm-install
+  install some module from npm
+
+npm-install --save
+  install and add the module into the package.json
+
+lodash
+  brings a lot of functions to interact with arrays, objects and strings
+
+axios
+  Promise based HTTP client for the browser and node.js

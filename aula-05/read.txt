@@ -1,0 +1,15 @@
+npm run
+  executa uma flag de script criada por mim. as flags start e test
+  são padrões, portanto npm basta (npm test, npm run flag)
+
+npm install --save-dev nodemon
+  modulo para teste de nodejs. Cria um watch para rodar novamente o servidor
+  toda vez que salvamos um projeto
+
+npm run dev
+  chama o script dev
+
+assert
+  The assert module provides a simple set of assertion tests that can be used
+  to test invariants
+  Fazer testes unitários
