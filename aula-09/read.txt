@@ -1,0 +1,9 @@
+criando um servidor node+express com rotas para api
+
+body-parser
+  pacote para receber dados por post (json, urlEncoded)
+  https://github.com/expressjs/body-parser
+
+mockaroo
+  mock data to test api
+  https://www.mockaroo.com/

@@ -1,0 +1,4 @@
+criando um servidor node+express
+
+apresentando o uso de middleware com express
+utilizando biblioteca winston para gerar um arquivo com log das urls acessadas
