@@ -1,0 +1,4 @@
+npm i --save serve-favicon
+  adicionar favicon
+
+o express ja vem com suporte a arquivo estático

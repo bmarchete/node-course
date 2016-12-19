@@ -1,0 +1,10 @@
+npm i -g express-generator
+  instala um gerador de aplicações express
+
+express --hogan --css sass
+  para dar suporte a css e sass, alem do template engine hogan
+
+set DEBUG=app:* & node index.js
+  permite depurar no windows
+
+cria uma api rest para users.
