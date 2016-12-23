@@ -1,0 +1,5 @@
+passport
+  biblioteca para autenticaçao
+  npm i -S passport passport-local knex mysql body-parser
+    instala uma estrategia para autenticação usuario/senha, além de suporte ao mysql
+    passport precisa ser anexado a sessao para funcionar com sessions

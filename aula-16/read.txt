@@ -1,0 +1,6 @@
+iniciando o uso de sessions
+
+express-session
+  middleware para sessions
+
+por padrao as sessoes ficam guardadas na memoria do servidor

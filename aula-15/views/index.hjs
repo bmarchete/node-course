@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>Lista de usuários</h1>
+    {{#users}}
+  <ul>
+    <a href="/users/{{id}}/tweets"><li>{{name}}</li></a>
+  </ul>
+    {{/users}}
+  </body>
+</html>
