@@ -1,0 +1,5 @@
+criação de formulario para registro de usuario
+proteção de senhas a partir de bcrypt-nodejs
+
+criação de middleware que impede o acesso a algumas rotas a partir de
+parametros como admin
